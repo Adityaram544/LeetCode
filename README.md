@@ -30,8 +30,13 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adityaram544/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Adityaram544/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adityaram544/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Adityaram544/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
