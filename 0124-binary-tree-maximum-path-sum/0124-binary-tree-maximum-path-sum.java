@@ -21,8 +21,8 @@ class Solution {
     }
     private int pathSum(TreeNode root){
         if(root==null) return 0;
-        int ls=pathSum(root.left);
-        int rs=pathSum(root.right);
+        int ls=Math.max(0,pathSum(root.left));
+        int rs=Math.max(0,pathSum(root.right));
         maxSum=Math.max(maxSum,root.val+ls+rs);
         return root.val+Math.max(ls,rs);
     }
