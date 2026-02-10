@@ -1,23 +1,22 @@
 class Solution {
     public int longestBalanced(int[] nums) {
         int n=nums.length;
-        int maxLen=0,cnt=0;
-        Map<Integer,Integer> map=new HashMap<>();
-        Set<Integer> set=new HashSet<>();
-        map.put(0,-1);
+        int maxLen=0;
         for(int i=0;i<n;i++){
-            if(!set.contains(nums[i])){
-                set.add(nums[i]);
-                if(nums[i]%2==0){
-                    cnt++;
-                }else{
-                    cnt--;
+            Set<Integer> set=new HashSet<>();
+            int cnt=0;
+            for(int j=i;j<n;j++){
+                if(!set.contains(nums[j])){
+                    set.add(nums[j]);
+                    if(nums[j]%2==0){
+                        cnt++;
+                    }else{
+                        cnt--;
+                    }
                 }
-            }
-            if(map.containsKey(cnt)){
-                maxLen=Math.max(maxLen,i-map.get(cnt));
-            }else{
-                map.put(cnt,i);
+                if(cnt==0){
+                    maxLen=Math.max(maxLen,j-i+1);
+                }
             }
         }
         return maxLen;
