@@ -74,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Adityaram544/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/Adityaram544/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Adityaram544/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
