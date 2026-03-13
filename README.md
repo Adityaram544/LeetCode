@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityaram544/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Adityaram544/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Adityaram544/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
@@ -51,6 +52,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Adityaram544/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityaram544/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
