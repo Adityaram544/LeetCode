@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/Adityaram544/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Adityaram544/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Adityaram544/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityaram544/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Adityaram544/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Adityaram544/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adityaram544/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityaram544/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Adityaram544/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -78,6 +80,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Adityaram544/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adityaram544/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
