@@ -1,18 +1,20 @@
 class Solution {
     public String[] findRestaurant(String[] list1, String[] list2) {
-        int min=10000;
-        ArrayList<String> res=new ArrayList<>();
+        Map<String,Integer> map=new HashMap<>();
         for(int i=0;i<list1.length;i++){
-            for(int j=0;j<list2.length;j++){
-                if(list1[i].equals(list2[j])){
-                    if(i+j<=min){
-                        if(i+j<min){
-                            res.clear();
-                            min=i+j;
-                        }
-                        res.add(list1[i]);
-                    }
-                    break;
+            map.put(list1[i],i);
+        }
+        List<String> res=new ArrayList<>();
+        int min=Integer.MAX_VALUE;
+        for(int j=0;j<list2.length;j++){
+            if(map.containsKey(list2[j])){
+                int i=map.get(list2[j]);
+                if(i+j < min){
+                    res.clear();
+                    res.add(list2[j]);
+                    min=i+j;
+                }else if(i+j==min){
+                    res.add(list2[j]);
                 }
             }
         }
