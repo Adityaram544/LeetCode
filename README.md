@@ -15,6 +15,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityaram544/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Adityaram544/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Adityaram544/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adityaram544/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityaram544/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaram544/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -71,6 +72,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0561-array-partition](https://github.com/Adityaram544/LeetCode/tree/main/0561-array-partition/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaram544/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adityaram544/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Two Pointers
@@ -93,6 +95,7 @@
 | [0205-isomorphic-strings](https://github.com/Adityaram544/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaram544/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adityaram544/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
