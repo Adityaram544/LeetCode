@@ -12,6 +12,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Adityaram544/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Adityaram544/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adityaram544/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0908-smallest-range-i](https://github.com/Adityaram544/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityaram544/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Adityaram544/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Adityaram544/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
@@ -135,6 +136,7 @@
 | [0367-valid-perfect-square](https://github.com/Adityaram544/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adityaram544/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/Adityaram544/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
+| [0908-smallest-range-i](https://github.com/Adityaram544/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
