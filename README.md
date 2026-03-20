@@ -134,6 +134,7 @@
 | [0048-rotate-image](https://github.com/Adityaram544/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Adityaram544/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adityaram544/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0492-construct-the-rectangle](https://github.com/Adityaram544/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
