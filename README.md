@@ -21,6 +21,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adityaram544/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityaram544/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaram544/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adityaram544/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Adityaram544/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Adityaram544/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adityaram544/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -42,6 +43,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adityaram544/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityaram544/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaram544/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adityaram544/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Adityaram544/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Adityaram544/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Adityaram544/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
