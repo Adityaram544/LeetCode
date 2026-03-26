@@ -20,6 +20,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Adityaram544/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityaram544/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adityaram544/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityaram544/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Adityaram544/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -93,6 +94,7 @@
 | [0561-array-partition](https://github.com/Adityaram544/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityaram544/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaram544/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adityaram544/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Adityaram544/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -119,6 +121,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Adityaram544/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adityaram544/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityaram544/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +170,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Adityaram544/LeetCode/tree/main/0561-array-partition/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityaram544/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
