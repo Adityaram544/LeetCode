@@ -46,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/Adityaram544/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/Adityaram544/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Adityaram544/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityaram544/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Adityaram544/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -185,6 +186,7 @@
 | [0070-climbing-stairs](https://github.com/Adityaram544/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Adityaram544/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adityaram544/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0441-arranging-coins](https://github.com/Adityaram544/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/Adityaram544/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/Adityaram544/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
