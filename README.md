@@ -13,6 +13,7 @@
 | [0561-array-partition](https://github.com/Adityaram544/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaram544/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adityaram544/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0661-image-smoother](https://github.com/Adityaram544/LeetCode/tree/main/0661-image-smoother/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Adityaram544/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
@@ -55,6 +56,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Adityaram544/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Adityaram544/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0661-image-smoother](https://github.com/Adityaram544/LeetCode/tree/main/0661-image-smoother/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/Adityaram544/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
