@@ -251,21 +251,25 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Adityaram544/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Adityaram544/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Adityaram544/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Adityaram544/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Adityaram544/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Adityaram544/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Adityaram544/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Adityaram544/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
