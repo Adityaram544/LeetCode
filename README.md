@@ -96,6 +96,7 @@
 | [0657-robot-return-to-origin](https://github.com/Adityaram544/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Adityaram544/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Adityaram544/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Adityaram544/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityaram544/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Adityaram544/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adityaram544/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -147,6 +148,7 @@
 | [0141-linked-list-cycle](https://github.com/Adityaram544/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Adityaram544/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Adityaram544/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Adityaram544/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Adityaram544/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adityaram544/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -181,6 +183,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Adityaram544/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Adityaram544/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Adityaram544/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Adityaram544/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adityaram544/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Adityaram544/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
@@ -305,4 +308,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/Adityaram544/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Adityaram544/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
