@@ -35,6 +35,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adityaram544/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityaram544/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Adityaram544/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Adityaram544/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaram544/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Adityaram544/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adityaram544/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -140,6 +141,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityaram544/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityaram544/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Adityaram544/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaram544/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityaram544/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adityaram544/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -181,6 +183,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adityaram544/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityaram544/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Adityaram544/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2540-minimum-common-value](https://github.com/Adityaram544/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityaram544/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adityaram544/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
