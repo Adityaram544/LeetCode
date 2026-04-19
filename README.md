@@ -38,6 +38,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Adityaram544/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaram544/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Adityaram544/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adityaram544/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adityaram544/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Adityaram544/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adityaram544/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -63,6 +64,7 @@
 | [0888-fair-candy-swap](https://github.com/Adityaram544/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adityaram544/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityaram544/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adityaram544/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Adityaram544/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/Adityaram544/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Adityaram544/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
@@ -164,6 +166,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adityaram544/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityaram544/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adityaram544/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Adityaram544/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Adityaram544/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adityaram544/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
