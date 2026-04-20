@@ -41,6 +41,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adityaram544/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adityaram544/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Adityaram544/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Adityaram544/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adityaram544/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Adityaram544/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityaram544/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -124,6 +125,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Adityaram544/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adityaram544/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaram544/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Adityaram544/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adityaram544/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Linked List
