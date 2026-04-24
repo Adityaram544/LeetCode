@@ -119,6 +119,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/Adityaram544/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Adityaram544/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adityaram544/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Adityaram544/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Adityaram544/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityaram544/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Greedy
@@ -274,6 +275,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaram544/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0819-most-common-word](https://github.com/Adityaram544/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityaram544/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Adityaram544/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
