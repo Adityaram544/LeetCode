@@ -32,6 +32,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adityaram544/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityaram544/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityaram544/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adityaram544/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Adityaram544/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -84,6 +85,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/Adityaram544/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adityaram544/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Adityaram544/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityaram544/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -320,6 +322,7 @@
 | [0257-binary-tree-paths](https://github.com/Adityaram544/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Adityaram544/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -328,6 +331,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Adityaram544/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Adityaram544/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -357,5 +361,6 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Adityaram544/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
