@@ -21,6 +21,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Adityaram544/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Adityaram544/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Adityaram544/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityaram544/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Adityaram544/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -154,6 +155,7 @@
 | [0561-array-partition](https://github.com/Adityaram544/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaram544/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Adityaram544/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Adityaram544/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Adityaram544/LeetCode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -179,6 +181,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Adityaram544/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Adityaram544/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Adityaram544/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Adityaram544/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adityaram544/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityaram544/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
