@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/Adityaram544/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Adityaram544/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaram544/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Adityaram544/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaram544/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Adityaram544/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -67,6 +68,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaram544/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Adityaram544/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Adityaram544/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Adityaram544/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
@@ -177,6 +179,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Adityaram544/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaram544/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Adityaram544/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Adityaram544/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Adityaram544/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
