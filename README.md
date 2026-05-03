@@ -121,6 +121,7 @@
 | [0657-robot-return-to-origin](https://github.com/Adityaram544/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Adityaram544/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Adityaram544/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
+| [0796-rotate-string](https://github.com/Adityaram544/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Adityaram544/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Adityaram544/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityaram544/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -259,6 +260,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Adityaram544/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0796-rotate-string](https://github.com/Adityaram544/LeetCode/tree/main/0796-rotate-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
