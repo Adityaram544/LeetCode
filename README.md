@@ -16,6 +16,7 @@
 | [0598-range-addition-ii](https://github.com/Adityaram544/LeetCode/tree/main/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adityaram544/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0661-image-smoother](https://github.com/Adityaram544/LeetCode/tree/main/0661-image-smoother/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Adityaram544/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Adityaram544/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0819-most-common-word](https://github.com/Adityaram544/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Adityaram544/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -162,6 +163,7 @@
 | [0088-merge-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0561-array-partition](https://github.com/Adityaram544/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaram544/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Adityaram544/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Adityaram544/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Adityaram544/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Adityaram544/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
