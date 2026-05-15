@@ -118,6 +118,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adityaram544/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Adityaram544/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Adityaram544/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adityaram544/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -217,6 +218,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adityaram544/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Adityaram544/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Adityaram544/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaram544/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -334,6 +336,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adityaram544/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaram544/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaram544/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Memoization
