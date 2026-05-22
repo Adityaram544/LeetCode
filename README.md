@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Adityaram544/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Adityaram544/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -80,6 +81,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaram544/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Adityaram544/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
