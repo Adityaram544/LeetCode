@@ -12,6 +12,7 @@
 | [0055-jump-game](https://github.com/Adityaram544/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/Adityaram544/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0135-candy](https://github.com/Adityaram544/LeetCode/tree/main/0135-candy/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaram544/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Adityaram544/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -165,6 +166,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Adityaram544/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Adityaram544/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/Adityaram544/LeetCode/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Adityaram544/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0561-array-partition](https://github.com/Adityaram544/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Adityaram544/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
