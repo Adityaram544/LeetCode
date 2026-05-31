@@ -1,19 +1,10 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        Map<Character,Integer> map=new HashMap<>();
-        int total=0,l=0;
-        for(int r=0;r<s.length();r++){
-            char c=s.charAt(r);
-            map.put(c,map.getOrDefault(c,0)+1);
-            while(map.size()==3){
-                total+=s.length()-r;
-                char x=s.charAt(l);
-                map.put(x,map.get(x)-1);
-                if(map.get(x)==0){
-                    map.remove(x);
-                }
-                l++;
-            }
+        int l[]={-1,-1,-1};
+        int total=0;
+        for(int i=0;i<s.length();i++){
+            l[s.charAt(i)-'a']=i;
+            total+=Math.min(l[0],Math.min(l[1],l[2]))+1;
         }
         return total;
     }
