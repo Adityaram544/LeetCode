@@ -67,6 +67,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Adityaram544/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Adityaram544/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityaram544/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Adityaram544/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Adityaram544/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adityaram544/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Adityaram544/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -284,6 +285,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityaram544/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Adityaram544/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Adityaram544/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Adityaram544/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Adityaram544/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Adityaram544/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Adityaram544/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -424,6 +426,7 @@
 | [0257-binary-tree-paths](https://github.com/Adityaram544/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Adityaram544/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +456,7 @@
 | [0257-binary-tree-paths](https://github.com/Adityaram544/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Adityaram544/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
