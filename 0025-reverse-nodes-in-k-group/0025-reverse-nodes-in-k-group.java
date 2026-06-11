@@ -11,35 +11,35 @@
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         if(head==null || k==1) return head;
-        ListNode temp=head;
         ListNode dummy=new ListNode(-1);
         dummy.next=head;
-        ListNode prev=dummy;
+        ListNode pre=dummy;
+        ListNode temp=head;
         int cnt=0;
         while(temp!=null){
             cnt++;
             temp=temp.next;
         }
-        temp=head;
         int x=cnt/k;
+        temp=head;
         while(x-->0){
             ListNode newHead=reverse(temp,k);
-            prev.next=newHead;
-            prev=temp;
+            pre.next=newHead;
+            pre=temp;
             temp=temp.next;
         }
         return dummy.next;
     }
-    private static ListNode reverse(ListNode head,int k){
+    private ListNode reverse(ListNode head,int k){
         ListNode temp=head;
-        ListNode prev=null;
+        ListNode pre=null;
         while(k-->0){
-            ListNode front=temp.next;
-            temp.next=prev;
-            prev=temp;
-            temp=front;
+            ListNode next=temp.next;
+            temp.next=pre;
+            pre=temp;
+            temp=next;
         }
         head.next=temp;
-        return prev;
+        return pre;
     }
 }
