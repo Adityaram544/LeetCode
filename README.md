@@ -42,6 +42,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityaram544/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Adityaram544/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/Adityaram544/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityaram544/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Adityaram544/LeetCode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/Adityaram544/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
@@ -294,6 +295,7 @@
 | [0888-fair-candy-swap](https://github.com/Adityaram544/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Adityaram544/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0992-subarrays-with-k-different-integers](https://github.com/Adityaram544/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Adityaram544/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Adityaram544/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -396,6 +398,7 @@
 | [0561-array-partition](https://github.com/Adityaram544/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaram544/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0819-most-common-word](https://github.com/Adityaram544/LeetCode/tree/main/0819-most-common-word/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/Adityaram544/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityaram544/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Adityaram544/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Dynamic Programming
@@ -430,6 +433,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaram544/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaram544/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Adityaram544/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Adityaram544/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityaram544/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Adityaram544/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adityaram544/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
