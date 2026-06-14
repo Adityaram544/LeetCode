@@ -11,17 +11,29 @@
 class Solution {
     public int pairSum(ListNode head) {
         int maxSum=0;
-        Stack<Integer> stk=new Stack<>();
         ListNode slow=head,fast=head;
         while(fast!=null && fast.next!=null){
-            stk.push(slow.val);
             slow=slow.next;
             fast=fast.next.next;
         }
-        while(slow!=null){
-            maxSum=Math.max(maxSum, slow.val + stk.pop());
-            slow=slow.next;
+        ListNode revHalf=reverse(slow);
+        ListNode firHalf=head;
+        while(revHalf!=null){
+            maxSum=Math.max(maxSum,firHalf.val + revHalf.val);
+            firHalf=firHalf.next;
+            revHalf=revHalf.next;
         }
         return maxSum;
+    }
+    private ListNode reverse(ListNode head){
+        ListNode temp=head;
+        ListNode pre=null;
+        while(temp!=null){
+            ListNode next=temp.next;
+            temp.next=pre;
+            pre=temp;
+            temp=next;
+        }
+        return pre;
     }
 }
