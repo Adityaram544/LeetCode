@@ -392,6 +392,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/Adityaram544/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1185-day-of-the-week](https://github.com/Adityaram544/LeetCode/tree/main/1185-day-of-the-week/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Adityaram544/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Adityaram544/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityaram544/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityaram544/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
