@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/Adityaram544/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Adityaram544/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/Adityaram544/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/Adityaram544/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Adityaram544/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Adityaram544/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Adityaram544/LeetCode/tree/main/0055-jump-game/) | Medium |
@@ -507,6 +508,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Adityaram544/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Adityaram544/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Adityaram544/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0090-subsets-ii](https://github.com/Adityaram544/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Adityaram544/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Stack
