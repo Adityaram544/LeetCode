@@ -1,29 +1,21 @@
 class Solution {
-    int cnt=0;
-    String str="";
     public String getPermutation(int n, int k) {
         StringBuilder sb=new StringBuilder();
-        boolean b[]=new boolean[n+1];
-        permut(sb,b,n,k);
-        return str;
-    }
-    private void permut(StringBuilder sb,boolean b[],int n,int k){
-        if(sb.length()==n){
-            cnt++;
-            if(cnt==k){
-                str=sb.toString();
-            }
-            return;
-        }
+        int fact=1;
+        k-=1;
+        List<Integer> lst=new ArrayList<>();
         for(int i=1;i<=n;i++){
-            if(!b[i]){
-                b[i]=true;
-                sb.append(i);
-                permut(sb,b,n,k);
-                sb.deleteCharAt(sb.length()-1);
-                b[i]=false;
-                if(!str.equals("")) return;
-            }
+            fact*=i;
+            lst.add(i);
         }
+        fact=fact/n;
+        while(true){
+            sb.append(lst.get(k/fact));
+            lst.remove(k/fact);
+            if(lst.size()==0) break;
+            k%=fact;
+            fact/=lst.size();
+        }
+        return sb.toString();
     }
 }
