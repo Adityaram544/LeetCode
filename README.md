@@ -231,6 +231,7 @@
 | [0018-4sum](https://github.com/Adityaram544/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/Adityaram544/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Adityaram544/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Adityaram544/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Adityaram544/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0561-array-partition](https://github.com/Adityaram544/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -271,6 +272,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaram544/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Adityaram544/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Adityaram544/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Adityaram544/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/Adityaram544/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Adityaram544/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Adityaram544/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -415,6 +417,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Adityaram544/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Adityaram544/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -514,6 +517,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Adityaram544/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/Adityaram544/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -551,4 +555,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Adityaram544/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Adityaram544/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
