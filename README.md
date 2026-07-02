@@ -97,6 +97,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Adityaram544/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adityaram544/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Adityaram544/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Adityaram544/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityaram544/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -155,6 +156,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityaram544/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Adityaram544/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Adityaram544/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityaram544/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Adityaram544/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adityaram544/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -438,6 +440,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Adityaram544/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Adityaram544/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -525,6 +528,7 @@
 | [0994-rotting-oranges](https://github.com/Adityaram544/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Adityaram544/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -595,4 +599,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaram544/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
