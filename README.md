@@ -120,6 +120,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityaram544/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaram544/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Adityaram544/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Adityaram544/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Adityaram544/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Adityaram544/LeetCode/tree/main/0441-arranging-coins/) | Easy |
@@ -386,6 +387,7 @@
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/Adityaram544/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Adityaram544/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Adityaram544/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Adityaram544/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adityaram544/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Adityaram544/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -510,6 +512,7 @@
 | [0101-symmetric-tree](https://github.com/Adityaram544/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adityaram544/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Adityaram544/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Adityaram544/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Adityaram544/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -547,6 +550,7 @@
 | [0101-symmetric-tree](https://github.com/Adityaram544/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adityaram544/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Adityaram544/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Adityaram544/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Adityaram544/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adityaram544/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
