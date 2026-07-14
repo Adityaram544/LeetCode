@@ -80,6 +80,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Adityaram544/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adityaram544/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityaram544/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityaram544/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Adityaram544/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Adityaram544/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -131,6 +132,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityaram544/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adityaram544/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Adityaram544/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityaram544/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2540-minimum-common-value](https://github.com/Adityaram544/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Adityaram544/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -345,6 +347,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityaram544/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Adityaram544/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Adityaram544/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityaram544/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Adityaram544/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Adityaram544/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Adityaram544/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
@@ -506,6 +509,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Adityaram544/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adityaram544/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityaram544/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityaram544/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
