@@ -84,6 +84,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Adityaram544/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adityaram544/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaram544/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityaram544/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityaram544/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Adityaram544/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -456,6 +457,7 @@
 | [1185-day-of-the-week](https://github.com/Adityaram544/LeetCode/tree/main/1185-day-of-the-week/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Adityaram544/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Adityaram544/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaram544/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityaram544/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityaram544/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -657,5 +659,6 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaram544/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityaram544/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
