@@ -56,6 +56,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Adityaram544/LeetCode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/Adityaram544/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Adityaram544/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Adityaram544/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Adityaram544/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Adityaram544/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Adityaram544/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -156,6 +157,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0994-rotting-oranges](https://github.com/Adityaram544/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/Adityaram544/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Adityaram544/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adityaram544/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Adityaram544/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -382,6 +384,7 @@
 | [0657-robot-return-to-origin](https://github.com/Adityaram544/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Adityaram544/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Adityaram544/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Adityaram544/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adityaram544/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Adityaram544/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
