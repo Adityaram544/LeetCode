@@ -101,6 +101,7 @@
 | [2615-sum-of-distances](https://github.com/Adityaram544/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Adityaram544/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Adityaram544/LeetCode/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityaram544/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityaram544/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Adityaram544/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Adityaram544/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -142,6 +143,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Adityaram544/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityaram544/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2540-minimum-common-value](https://github.com/Adityaram544/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityaram544/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Adityaram544/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Adityaram544/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -289,6 +291,7 @@
 | [2126-destroying-asteroids](https://github.com/Adityaram544/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityaram544/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Adityaram544/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityaram544/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityaram544/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adityaram544/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Adityaram544/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -320,6 +323,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adityaram544/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adityaram544/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Adityaram544/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityaram544/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Adityaram544/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityaram544/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adityaram544/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
