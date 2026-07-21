@@ -220,6 +220,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Adityaram544/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Adityaram544/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Adityaram544/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Adityaram544/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Adityaram544/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Adityaram544/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
@@ -524,6 +525,7 @@
 | [1291-sequential-digits](https://github.com/Adityaram544/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Adityaram544/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Adityaram544/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Adityaram544/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityaram544/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityaram544/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
