@@ -659,6 +659,7 @@
 | [0595-big-countries](https://github.com/Adityaram544/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Adityaram544/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Adityaram544/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Adityaram544/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Adityaram544/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
