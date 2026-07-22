@@ -463,6 +463,7 @@
 | [0492-construct-the-rectangle](https://github.com/Adityaram544/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/Adityaram544/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0598-range-addition-ii](https://github.com/Adityaram544/LeetCode/tree/main/0598-range-addition-ii/) | Easy |
+| [0866-prime-palindrome](https://github.com/Adityaram544/LeetCode/tree/main/0866-prime-palindrome/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0908-smallest-range-i](https://github.com/Adityaram544/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
@@ -678,6 +679,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0866-prime-palindrome](https://github.com/Adityaram544/LeetCode/tree/main/0866-prime-palindrome/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaram544/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityaram544/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
