@@ -114,6 +114,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Adityaram544/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Adityaram544/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityaram544/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Adityaram544/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityaram544/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -428,6 +429,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adityaram544/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Adityaram544/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Adityaram544/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Adityaram544/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,6 +481,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityaram544/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityaram544/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Adityaram544/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityaram544/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adityaram544/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Adityaram544/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
