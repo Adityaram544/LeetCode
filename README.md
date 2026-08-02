@@ -40,6 +40,7 @@
 | [0819-most-common-word](https://github.com/Adityaram544/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0860-lemonade-change](https://github.com/Adityaram544/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Adityaram544/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/Adityaram544/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Adityaram544/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
@@ -476,6 +477,7 @@
 | [0504-base-7](https://github.com/Adityaram544/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0598-range-addition-ii](https://github.com/Adityaram544/LeetCode/tree/main/0598-range-addition-ii/) | Easy |
 | [0866-prime-palindrome](https://github.com/Adityaram544/LeetCode/tree/main/0866-prime-palindrome/) | Medium |
+| [0877-stone-game](https://github.com/Adityaram544/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/Adityaram544/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0908-smallest-range-i](https://github.com/Adityaram544/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
@@ -530,6 +532,7 @@
 | [0070-climbing-stairs](https://github.com/Adityaram544/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Adityaram544/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Adityaram544/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0877-stone-game](https://github.com/Adityaram544/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Adityaram544/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityaram544/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -700,4 +703,8 @@
 | [0866-prime-palindrome](https://github.com/Adityaram544/LeetCode/tree/main/0866-prime-palindrome/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaram544/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityaram544/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Adityaram544/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
