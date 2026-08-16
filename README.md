@@ -90,6 +90,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adityaram544/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaram544/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityaram544/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
+| [2029-stone-game-ix](https://github.com/Adityaram544/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityaram544/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Adityaram544/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Adityaram544/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -249,6 +250,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaram544/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityaram544/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adityaram544/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/Adityaram544/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Adityaram544/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Adityaram544/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityaram544/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -494,6 +496,7 @@
 | [1406-stone-game-iii](https://github.com/Adityaram544/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Adityaram544/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaram544/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/Adityaram544/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityaram544/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityaram544/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -526,6 +529,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityaram544/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Adityaram544/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityaram544/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2029-stone-game-ix](https://github.com/Adityaram544/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Adityaram544/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaram544/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaram544/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -716,4 +720,17 @@
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Adityaram544/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Adityaram544/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/Adityaram544/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Adityaram544/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Adityaram544/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Adityaram544/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
