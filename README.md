@@ -194,6 +194,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Adityaram544/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0038-count-and-say](https://github.com/Adityaram544/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Adityaram544/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Adityaram544/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0097-interleaving-string](https://github.com/Adityaram544/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Adityaram544/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Adityaram544/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
@@ -361,6 +362,7 @@
 | [0001-two-sum](https://github.com/Adityaram544/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityaram544/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Adityaram544/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Adityaram544/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adityaram544/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adityaram544/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Adityaram544/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -569,6 +571,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityaram544/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Adityaram544/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaram544/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaram544/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Adityaram544/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
