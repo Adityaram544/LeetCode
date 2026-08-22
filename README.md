@@ -511,6 +511,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adityaram544/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Adityaram544/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Adityaram544/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adityaram544/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityaram544/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adityaram544/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Adityaram544/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
