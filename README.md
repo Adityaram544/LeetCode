@@ -230,6 +230,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Adityaram544/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Adityaram544/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityaram544/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adityaram544/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaram544/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Adityaram544/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Adityaram544/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -588,6 +589,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adityaram544/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityaram544/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityaram544/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adityaram544/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
