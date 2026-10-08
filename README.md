@@ -224,6 +224,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityaram544/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityaram544/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Adityaram544/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Adityaram544/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adityaram544/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adityaram544/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Adityaram544/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -675,6 +676,7 @@
 | [0844-backspace-string-compare](https://github.com/Adityaram544/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Adityaram544/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityaram544/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Adityaram544/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adityaram544/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -766,4 +768,5 @@
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/Adityaram544/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityaram544/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Adityaram544/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
