@@ -14,20 +14,17 @@ class Solution {
         }
         Arrays.sort(arr,(a,b)-> a[1]!=b[1] ? a[1]-b[1] : a[0]-b[0]);
         boolean vis[]=new boolean[n];
-        int res=0;
+        int c=0;
         for(int i=0;i<n;i++){
-            if(vis[i] || arr[i][2]==i){
-                vis[i]=true;
-                continue;
+            if(!vis[i]){
+                c++;
+                int j=i;
+                while(!vis[j]){
+                    vis[j]=true;
+                    j=arr[j][2];
+                }
             }
-            int j=i,cnt=0;
-            while(!vis[j]){
-                vis[j]=true;
-                j=arr[j][2];
-                cnt++;
-            }
-            res+=cnt-1;
         }
-        return res;
+        return n-c;
     }
 }
