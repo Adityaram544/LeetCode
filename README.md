@@ -29,6 +29,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Adityaram544/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Adityaram544/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Adityaram544/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Adityaram544/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaram544/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Adityaram544/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaram544/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -514,6 +515,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adityaram544/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/Adityaram544/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Adityaram544/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Adityaram544/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Adityaram544/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/Adityaram544/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0598-range-addition-ii](https://github.com/Adityaram544/LeetCode/tree/main/0598-range-addition-ii/) | Easy |
