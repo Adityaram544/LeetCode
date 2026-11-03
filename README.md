@@ -137,6 +137,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/Adityaram544/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityaram544/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/Adityaram544/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adityaram544/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaram544/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adityaram544/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Adityaram544/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -538,6 +539,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Adityaram544/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Adityaram544/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adityaram544/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adityaram544/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityaram544/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adityaram544/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Adityaram544/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
